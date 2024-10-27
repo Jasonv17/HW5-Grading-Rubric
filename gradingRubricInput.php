@@ -1,8 +1,8 @@
 
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "csc350";
+$password = "xampp";
 $dbname = "school_grades";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
